@@ -1,0 +1,14 @@
+C:\Users\DELL\Desktop\Diego URL\L11 - Diego Diaz - 1214024\bin\Debug\net8.0\L11 - Diego Diaz - 1214024.exe
+C:\Users\DELL\Desktop\Diego URL\L11 - Diego Diaz - 1214024\bin\Debug\net8.0\L11 - Diego Diaz - 1214024.deps.json
+C:\Users\DELL\Desktop\Diego URL\L11 - Diego Diaz - 1214024\bin\Debug\net8.0\L11 - Diego Diaz - 1214024.runtimeconfig.json
+C:\Users\DELL\Desktop\Diego URL\L11 - Diego Diaz - 1214024\bin\Debug\net8.0\L11 - Diego Diaz - 1214024.dll
+C:\Users\DELL\Desktop\Diego URL\L11 - Diego Diaz - 1214024\bin\Debug\net8.0\L11 - Diego Diaz - 1214024.pdb
+C:\Users\DELL\Desktop\Diego URL\L11 - Diego Diaz - 1214024\obj\Debug\net8.0\L11 - Diego Diaz - 1214024.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\Diego URL\L11 - Diego Diaz - 1214024\obj\Debug\net8.0\L11 - Diego Diaz - 1214024.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\Diego URL\L11 - Diego Diaz - 1214024\obj\Debug\net8.0\L11 - Diego Diaz - 1214024.AssemblyInfo.cs
+C:\Users\DELL\Desktop\Diego URL\L11 - Diego Diaz - 1214024\obj\Debug\net8.0\L11 - Diego Diaz - 1214024.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Diego URL\L11 - Diego Diaz - 1214024\obj\Debug\net8.0\L11 - Diego Diaz - 1214024.dll
+C:\Users\DELL\Desktop\Diego URL\L11 - Diego Diaz - 1214024\obj\Debug\net8.0\refint\L11 - Diego Diaz - 1214024.dll
+C:\Users\DELL\Desktop\Diego URL\L11 - Diego Diaz - 1214024\obj\Debug\net8.0\L11 - Diego Diaz - 1214024.pdb
+C:\Users\DELL\Desktop\Diego URL\L11 - Diego Diaz - 1214024\obj\Debug\net8.0\L11 - Diego Diaz - 1214024.genruntimeconfig.cache
+C:\Users\DELL\Desktop\Diego URL\L11 - Diego Diaz - 1214024\obj\Debug\net8.0\ref\L11 - Diego Diaz - 1214024.dll
